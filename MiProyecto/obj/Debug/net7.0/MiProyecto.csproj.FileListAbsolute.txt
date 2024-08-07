@@ -1,0 +1,14 @@
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\obj\Debug\net7.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\obj\Debug\net7.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\obj\Debug\net7.0\MiProyecto.AssemblyInfo.cs
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\obj\Debug\net7.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\bin\Debug\net7.0\MiProyecto.exe
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\bin\Debug\net7.0\MiProyecto.deps.json
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\bin\Debug\net7.0\MiProyecto.runtimeconfig.json
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\bin\Debug\net7.0\MiProyecto.dll
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\bin\Debug\net7.0\MiProyecto.pdb
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\obj\Debug\net7.0\MiProyecto.dll
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\obj\Debug\net7.0\refint\MiProyecto.dll
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\obj\Debug\net7.0\MiProyecto.pdb
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\obj\Debug\net7.0\MiProyecto.genruntimeconfig.cache
+C:\Users\quiro\Documents\Visual Studio 2017\Archicos\S1\MiProyecto\obj\Debug\net7.0\ref\MiProyecto.dll
